@@ -16,5 +16,9 @@
     "request": "^2.88.2",
     "util": "^0.12.4",
     "xv": "^1.1.1"
-  }
+  },
+  "bin": {
+    "encrypt": "./13.bin/bin/encrypt.js",
+    "decrypt1": "./13.bin/bin/decrypt.js"
+}
 }
